@@ -1,6 +1,6 @@
 ### Hi, I am Munir 👋
 
-##I am a developer, learner, gamer and generally developing some cool sh*t!
+## I am a developer, learner, gamer and generally developing some cool sh*t!
 ---
 
 ✨ Welcome to my Github page ✨ 
@@ -12,7 +12,7 @@
 
 
 
--->
+
 ---
 ## Find me on these pages too:
 <ul>
@@ -20,7 +20,7 @@
 
 <li><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji>My Linked-In<a href="https://www.linkedin.com/in/munirsyed/">page</a>.</li>
 </ul>
--->
+
 ---
 
 
