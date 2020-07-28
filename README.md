@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Muniro/Muniro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+![<Title for your card>](https://github-readme-stats.vercel.app/api?username=muniro&show_icons=true&theme=radical)
+  
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/?username=muniro)]https://github.com/Muniro/online-devcamp-api)
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muniro)](https://github.com/muniro/ang-core-api)
