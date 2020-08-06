@@ -4,7 +4,7 @@
 
 ### Hi, I am Muniro 👋
 
-## I am a developer, learner, gamer and generally developing some cool sh*t!
+## I am a developer, a gamer, and always learning something about the development technologies and design patterns.
 ---
 
 - 🔭 I’m currently working on Ang-core-api and online-devcamp-api repos.
