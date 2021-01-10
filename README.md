@@ -7,8 +7,8 @@
 ## I am a developer, a gamer, and always learning something about the development technologies and design patterns.
 ---
 
-- 🔭 I’m currently working on Ang-core-api and online-devcamp-api repos.
-- 🌱 I’m currently learning Express, Mongoose, MongoDB and .net Blazor
+- 🔭 I’m currently working on a Horror game in Unity3D - very tense game!
+- 🌱 I’m currently learning  Express, Mongoose, MongoDB and .net Blazor
 - ⚡ Fun fact: Love developing and playing games, like Dayz and The Long Dark.
 
 ---
