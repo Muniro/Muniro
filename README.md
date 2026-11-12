@@ -8,8 +8,9 @@
 ---
 
 - 🔭 I’m currently working on a Horror game in Unity3D - very tense game!
-- 🌱 I’m currently learning  Express, Mongoose, MongoDB and .net Blazor
-- ⚡ Fun fact: Love developing and playing games, like Dayz and The Long Dark.
+- ⚛️ I’m taking an intensive Advanced React course with Barcelona Code School, working with hooks, state management and API integration.
+- 💻 Next up is QA’s Advanced C# Programming Language course, soon.
+- ⚡ Fun fact: Love developing and playing games, like Dayz, Alien Isolation and The Long Dark.
 
 ---
 ## Find me on these pages too:
