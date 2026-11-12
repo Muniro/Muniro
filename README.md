@@ -2,9 +2,9 @@
 ✨ Welcome to my Github page ✨ 
 
 
-### Hi, I am Muniro 👋
+### Hi, I am Munir 👋
 
-## I am a developer, a gamer, and always learning something about the development technologies and design patterns.
+## I am a developer and a gamer, and always learning something about the development technologies and design patterns.
 ---
 
 - 🔭 I’m currently working on a Horror game in Unity3D - very tense game!
